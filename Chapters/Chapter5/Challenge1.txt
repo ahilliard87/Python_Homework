@@ -1,0 +1,6 @@
+The Add XY Coordinate tool has one parameter that is required and that is the Input Features paramters. T
+There are no optional or defualt parameters in this tool.
+
+For the Dissolce tool there are two required paramters, the Input Features and the Output Feature Class. 
+The only default selected for this tool is the Create Multipart feature box, which is optional but it is checked at the start. 
+The otional params for this tool are, Dissolve_Fields, Statistics Fields, and Unspilt Lines checkbox. 
